@@ -31,7 +31,7 @@ npx hardhat verify {contract_address} --network goerli
 
 ### Project url
 ```
-https://waveportal-starter-project.jiashuaichang.repl.co/
+https://nft-starter-project.jiashuaichang.repl.co
 ```
 
 ### Screenshot
